@@ -1,6 +1,6 @@
 # languages-frameworks-atividade-2
 
-## Como Utilizar
+## Como Utilizar?
 Após clonar o repositório, execute os comandos abaixo: 
 
 1 pip install -r requirements.txt <br>
