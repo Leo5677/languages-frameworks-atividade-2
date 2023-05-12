@@ -1,5 +1,9 @@
 # languages-frameworks-atividade-2
 
+## Construção:
+1. Biblioteca: TKInter
+2. Desenvolvimento: Orientado a Objetos
+
 ## Como Utilizar?
 Após clonar o repositório, execute os comandos abaixo: 
 
